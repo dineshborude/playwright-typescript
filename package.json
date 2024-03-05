@@ -1,0 +1,24 @@
+{
+  "name": "playwright-typescript",
+  "version": "1.0.0",
+  "description": "NodeJS \r npm",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshborude/playwright-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshborude/playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/dineshborude/playwright-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24",
+    "playwright": "^1.42.1",
+    "typescript": "^5.3.3"
+  }
+}
