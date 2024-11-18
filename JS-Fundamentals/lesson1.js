@@ -8,7 +8,7 @@ console.log("Hello World");
 // Variables declared by var are available throughout the function in which they’re declared.
 
 let familySize = 2;
-let plannedDistanceToDrive = 100;
+let plannedDistanceToDrive = 100;  
 
 function recommendedCar(familySize,plannedDistanceToDrive) {
     
