@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/dineshborude/playwright-typescript#readme",
   "devDependencies": {
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.48.2",
     "@types/node": "^20.11.24",
     "playwright": "^1.42.1",
     "typescript": "^5.3.3"
